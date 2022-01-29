@@ -1,0 +1,33 @@
+(Module The Danger)
+Öncelikle merhaba �
+
+Bugün anlatacağım konu CyberOps eğitiminde gördüğümüz siber güvenlik saldırılarından olan evil twin yani herkese açık olan wifiye bağlanamanın tehlikesi, ransomware saldırısının tehlikesi, hatta saldırıların milletler arası olabileceği hakkında bir yazı yazdım. Tehdit aktölerini de sıraladım. Umarım açıklayıcı olmuştur. 🙂
+
+1.1.1. Kaçırılan İnsanlar (Hıjacker People)
+Bir kafe ya da benzeri bir ortama gittiğimizde ve herkese açık olan bir wifiye bağlandığımızda hacker olan kişi ya da kişiler kendi hotspotlarını bağlandığımız wifi adı ile değiştirerek kendi hotspotlarına bağlanmamızı sağlayabilir. Biz, o saldırganın ağına bağlandığımızda ve bankacılık işlemleri gibi önemli işlemler yaptığımızda bizim bilgilerimizi çalabilirler. Bu işleme  “evil twin” yani “kötü ikiz” denir. Herkese açık ağlara bağlanırken  banka işlemleri gibi önemli bilgileri o ağda yapmamalıyız.
+
+1.1.2. Fidye Verilmiş Şirketler (Ransomed Companies)
+Fidye saldırıları şirketlere özel tasarlanmış olabiliyor. Bu saldırılar için şirketin önemli bir pozisyonunda kişi gibi bir mail atılarak, şirket çalışanlarına ağına düşürüyor ve çalışanların dosyaları şifrelenip karşılığında fidye istiyor.
+
+1.1.3. Hedeflenen Milletler (Targeted Nations)
+Hacker saldırıları sadece kişiye ya da şirkete özel değil milletlere özel de olabilir. Bu saldırıya örnek olarak İran’da yaşanan Stuxnet saldırısını örnek gösterebiliriz. Bu saldırı, USB sürücülerine bulaşan bir worm saldırısıydı. Uranyum tesislerine bulaşmak için tasarlanan bu saldırı, Windows işletim sistemine sızmıştır. Bu saldırının belgeseli 2016 yılında Zero Days adında vizyona girmiştir.
+
+2.1. Tehdit Aktörleri (Threat Actors)
+Siber saldırılar, kişi ya da kişileri, kurumları hatta milletleri kasıtlı olarak, kötü niyetli olarak yapılan eylemlerdir. Bu kişilere yaptıkları amaca göre isimlendirilmiştir.
+
+Amatörler, az bilgi ile ya da hazır kodlar kullanarak saldırı yapan kişilerdir.
+
+Hacktivistler, çeşitli siyasi ve sosyal fikirleri protesto eden bilgisayar korsanlarıdır.
+
+Finansal kazanç için yapılan kişisel verilerimize, banka hesaplarımıza ulaşmayı amaçlayan bilgisayar korsanları yani hacker kişilerdir.
+
+Ticari sırlar ve küresel politika için yapılan saldırılar, ulusların birbirlerine karşı olan saldırı biçimi olan tehdit aktörüdür.
+
+1.3.1. PII, PHI VE PSI   
+PII, bir kişi tanımlayan isim, doğum günü,kimlik, banka kartı numaraları kredi kartı numarası, adresi, sosyal güvenlik numarası bilgilerini içerir.
+
+PHI, PII’nin bir alt kümesi olarak korunan sağlık bilgileridir.
+
+PSI, kişisel güvenlik bilgileridir. Kullanıcı adları, parolalar ve güvenlik ile ilgili diğer bilgileri içerir.
+
+Kaynak :Netacad.com
