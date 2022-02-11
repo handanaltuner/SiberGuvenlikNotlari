@@ -1,0 +1,39 @@
+Öncelikle merhaba :)
+
+Ben, bu yazımda sizlere siber güvenlik analisti kimdir? Ne iş yapar gibi sorulara cevap bulmaya çalışacağım. Şuanda Akbank ve Ağ Yöneticileri Derneği'nin Siber Güvenlik Analisti eğitimine devam ediyorum, umarım yakında bu mesleği deneyimlerim.
+
+Şimdi gelelim size :) Siber güvenlik analisti denildiğinde gözünüzde nasıl bir iş canlanıyor? Hiç düşündünüz mü? Yoksa hayaliniz siber güvenlik analisti olmak mı? Siz bu soruların cevabını düşünürken ben siber güvenlik analistinin iş tanımını, güvenlik operasyonlarının unsurlarını anlatmaya çalışacağım.
+
+SOC, Güvenlik operasyonları merkezi, güvenlik sorunlarıyla kurumsal ve teknik düzeyde ilgilenen merkezi bir birimdir. Güvenlik operasyonunun unsurları, işlem, teknoloji ve insandan oluşur. Siber güvenlik analistleri, uyarı analisti, olay müdahale görevlisi, tehdit avcısı ve SOC yöneticisi görevlerinde çalışır.
+
+Aşama Uyarı Analisti : Buradaki uzmanlar, gelen uyarıları izler, gerçek bir olayın meydana geldiğini doğrular ve gerekirse o uyarıyı 2. Katmana iletir.
+Aşama Olay Müdahale Görevlisi : Buradaki uzmanlar, olayların derinlemesine araştırılmasından sorumludur ve düzeltilmesi veya yapılması gereken işlemleri tavsiye eder.
+Aşama Tehdit Avcısı : Buradaki uzmanlar, ağ, uç nokta, tehdit istihbaratı ve kötü amaçlı yazılım, tersine mühendislik konularında uzmandır. Tehdit avcıları, ağda bulunan ancak henüz tespit edilmemiş siber tehditleri arar.
+SOC Yöneticisi : SOC’nin tüm kaynaklarını yönetir ve daha büyük organizasyon veya müşteri için iletişim noktası olarak hizmet eder.
+SIEM, güvenlik duvarlarının, ağ cihazlarının, izinsiz giriş tespit sistemlerinin ve diğer cihazların ürettiği tüm veriler anlamlandırır. SIEM ürünleri, gerçek zamanlı raporlama ve güvenlik olaylarını analiz eder ve onları anlamlandırarak ağlara yönelik en son tehditleri tespit edebilme imkânını sunar.
+
+ Aşağıdaki işlemlerden bir veya daha fazlasını içerir.
+
+Olay toplama, korelasyon ve analiz
+Güvenlik izleme
+Güvenlik kontrolü
+Güvenlik Yönetimi
+Güvenlik açığı değerlendirmesi
+Güvenlik açığı izleme
+Tehdit istihbaratı
+SOAR (Security Orchestration Automation and Responce), SIEM gibi alarmları yönetme ve yanıt vermek için tasarlanmıştır. SOAR güvenlik platformları;
+
+Sistemin her bir bileşeninden alarm verileri toplar,
+Vakaları araştırır, değerlendirir ve araştırılmasını sağlar,
+Karmaşık olay müdahale iş akışlarını otomatikleştiren entegrasyon sağlar,
+Belirli tehditlere otomatik yanıt verilmesini sağlayan önceden tanımlanmış çalışma kitapları oluşturur.
+SOC METRİKLERİ
+
+SOC yöneticileri tarafından derlenen birkaç yaygın metrik şunlardır:
+
+Bekleme Süresi(Dwell Time)
+Ortalama Tespit Süresi (Mean Time to Detect(MTTD))
+Ortalama Yanıt Süresi(Mean Time to Respond(MTTR))
+Ortalama Kontrol Süresi(Mean Time to Contain(MTTC))
+Kontrol Süresi(Time to Control)
+Sizin de eklemek istedikleriniz var ise lütfen yorum olarak yazın. :) Yazımı buraya kadar okuduğunuz için teşekkür ederim. Keyifli günler dilerim. :)
